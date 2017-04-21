@@ -2,7 +2,7 @@
 locale: es-AR
 title: Comenzando un proyecto de C&oacute;digo Abierto
 description: Aprende m&aacute;s acerca del mundo del Código Abierto y prep&aacute;rate a lanzar tu propio proyecto.
-class: principiantes
+class: beginners
 toc:
   el-c&oacute;mo-y-el-por-qu&eacute;-del-C&oacute;digo-Abierto: "El c&oacute;mo y el por qu&eacute; del C&oacute;digo Abierto"
   deber&iacute;a-lanzar-mi-propio-proyecto-de-C&oacute;digo-Abierto: "&iquest;Deber&iacute;a lanzar mi propio proyecto de C&oacute;digo Abierto?"
