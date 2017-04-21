@@ -1,14 +1,14 @@
 ---
-locale: es_AR
+locale: es-AR
 title: Comenzando un proyecto de C&oacute;digo Abierto
 description: Aprende m&aacute;s acerca del mundo del Código Abierto y prep&aacute;rate a lanzar tu propio proyecto.
 class: principiantes
 toc:
-  the-what-and-why-of-open-source: "El c&oacute;mo y el por qu&eacute; del C&oacute;digo Abierto"
-  should-i-launch-my-own-open-source-project: "&iquest;Deber&iacute;a lanzar mi propio proyecto de C&oacute;digo Abierto?"
-  launching-your-own-open-source-project: "Lanzando tu propio proyecto de C&oacute;digo Abierto"
-  naming-and-branding-your-project: "Dando un nombre y una marca a tu proyecto"
-  your-pre-launch-checklist: "Tu checklist a armar previamente al lanzamiento del proyecto"
+  el-c&oacute;mo-y-el-por-qu&eacute;-del-C&oacute;digo-Abierto: "El c&oacute;mo y el por qu&eacute; del C&oacute;digo Abierto"
+  &iquest;deber&iacute;a-lanzar-mi-propio-proyecto-de-C&oacute;digo-Abierto: "&iquest;Deber&iacute;a lanzar mi propio proyecto de C&oacute;digo Abierto?"
+  lanzando-tu-propio-proyecto-de-C&oacute;digo-Abierto: "Lanzando tu propio proyecto de C&oacute;digo Abierto"
+  dando-un-nombre-y-una-marca-a-tu-proyecto: "Dando un nombre y una marca a tu proyecto"
+  tu-checklist-a-armar-previamente-al-lanzamiento-del-proyecto: "Tu checklist a armar previamente al lanzamiento del proyecto"
 order: 2
 image: /assets/images/cards/beginner.png
 ---
