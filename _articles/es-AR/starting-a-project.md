@@ -4,11 +4,11 @@ title: Comenzando un proyecto de C&oacute;digo Abierto
 description: Aprende m&aacute;s acerca del mundo del Código Abierto y prep&aacute;rate a lanzar tu propio proyecto.
 class: beginners
 toc:
-  el-c&oacute;mo-y-el-por-qu&eacute;-del-C&oacute;digo-Abierto: "El c&oacute;mo y el por qu&eacute; del C&oacute;digo Abierto"
-  deber&iacute;a-lanzar-mi-propio-proyecto-de-C&oacute;digo-Abierto: "&iquest;Deber&iacute;a lanzar mi propio proyecto de C&oacute;digo Abierto?"
-  lanzando-tu-propio-proyecto-de-C&oacute;digo-Abierto: "Lanzando tu propio proyecto de C&oacute;digo Abierto"
-  dando-un-nombre-y-una-marca-a-tu-proyecto: "Dando un nombre y una marca a tu proyecto"
-  tu-checklist-a-armar-previamente-al-lanzamiento-del-proyecto: "Tu checklist a armar previamente al lanzamiento del proyecto"
+  el-c&oacute;mo-y-el-por-qu&eacute;-del-c&oacute;digo-abierto: "El c&oacute;mo y el por qu&eacute; del c&oacute;digo abierto"
+  deber&iacute;a-lanzar-mi-propio-proyecto-de-c&oacute;digo-abierto: "&iquest;Deber&iacute;a lanzar mi propio proyecto de c&oacute;digo abierto?"
+  lanzando-tu-propio-proyecto-de-c&oacute;digo-abierto: "Lanzando tu propio proyecto de c&oacute;digo abierto"
+  asignando-un-nombre-y-una-marca-a-tu-proyecto: "Asignando un nombre y una marca a tu proyecto"
+  tu-checklist-de-pre-lanzamiento: "Tu checklist de pre-lanzamiento"
 order: 2
 image: /assets/images/cards/beginner.png
 ---
