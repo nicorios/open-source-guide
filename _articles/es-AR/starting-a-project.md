@@ -5,7 +5,7 @@ description: Aprende m&aacute;s acerca del mundo del Código Abierto y prep&aacu
 class: principiantes
 toc:
   el-c&oacute;mo-y-el-por-qu&eacute;-del-C&oacute;digo-Abierto: "El c&oacute;mo y el por qu&eacute; del C&oacute;digo Abierto"
-  &iquest;deber&iacute;a-lanzar-mi-propio-proyecto-de-C&oacute;digo-Abierto: "&iquest;Deber&iacute;a lanzar mi propio proyecto de C&oacute;digo Abierto?"
+  deber&iacute;a-lanzar-mi-propio-proyecto-de-C&oacute;digo-Abierto: "&iquest;Deber&iacute;a lanzar mi propio proyecto de C&oacute;digo Abierto?"
   lanzando-tu-propio-proyecto-de-C&oacute;digo-Abierto: "Lanzando tu propio proyecto de C&oacute;digo Abierto"
   dando-un-nombre-y-una-marca-a-tu-proyecto: "Dando un nombre y una marca a tu proyecto"
   tu-checklist-a-armar-previamente-al-lanzamiento-del-proyecto: "Tu checklist a armar previamente al lanzamiento del proyecto"
