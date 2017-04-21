@@ -5,9 +5,9 @@ description: Aprende m&aacute;s acerca del mundo del Código Abierto y prep&aacu
 class: beginners
 toc:
   el-c&oacute;mo-y-el-por-qu&eacute;-del-c&oacute;digo-abierto: "El c&oacute;mo y el por qu&eacute; del c&oacute;digo abierto"
-  deber&iacute;a-lanzar-mi-propio-proyecto-de-c&oacute;digo-abierto: "&iquest;Deber&iacute;a lanzar mi propio proyecto de c&oacute;digo abierto?"
-  lanzando-tu-propio-proyecto-de-c&oacute;digo-abierto: "Lanzando tu propio proyecto de c&oacute;digo abierto"
-  asignando-un-nombre-y-una-marca-a-tu-proyecto: "Asignando un nombre y una marca a tu proyecto"
+  deber&iacute;a-comenzar-mis-propios-proyectos-de-c&oacute;digo-abierto: "&iquest;Deber&iacute;a comenzar mis propios proyectos de c&oacute;digo abierto?"
+  lanzando-tus-propios-proyectos: "Lanzando tus propios proyectos"
+  asignando-nombre-y-la-marca-a-tu-proyecto: "Asignando nombre y la marca a tu proyecto"
   tu-checklist-de-pre-lanzamiento: "Tu checklist de pre-lanzamiento"
 order: 2
 image: /assets/images/cards/beginner.png
