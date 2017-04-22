@@ -1,6 +1,6 @@
 ---
 locale: es-AR
-title: Buenas Pr&aacute;cticas para los Encargados del Mantenimiento.
+title: Buenas Pr&aacute;cticas para Mantenedores de C&oacute;digo.
 description: Haci&eacute;ndote la vida m&aacute;s f&aacute;cil como un mantenedor de c&oacute;digo abierto, desde el proceso de documentaci&oacute;n hasta sacar el m&aacute;ximo provecho de la comunidad.
 class: best-practices
 toc:

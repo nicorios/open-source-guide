@@ -4,12 +4,12 @@ title: C&oacute;mo Contribuir con el C&oacute;digo Abierto
 description: ¿Quieres colaborar con el c&oacute;digo abierto? Una gu&iacute;a para hacer contribuciones al c&oacute;digo abierto, para principiantes y veteranos.
 class: contribute
 toc:
-  para-que-contribuir: "¿Para qu&eacute; contribuir?"
-  what-it-means-to-contribute: "Qu&eacute; significa contribuir"
-  orienting-yourself-to-a-new-project: "Orient&aacute;ndote a un nuevo proyecto"
-  finding-a-project-to-contribute-to: "Encontrando un proyecto al que contribuir"
-  how-to-submit-a-contribution: "C&oacute;mo contribuir"
-  what-happens-after-you-submit-a-contribution: "Qu&eacute; pasa despu&eacute;s de contribuir"
+  ¿para-qu&eacute;-contribuir?: "¿Para qu&eacute; contribuir?"
+  qu&eacute;-significa-contribuir: "Qu&eacute; significa contribuir"
+  orient&aacute;ndote-a-un-nuevo proyecto: "Orient&aacute;ndote a un nuevo proyecto"
+  encontrando-un-proyecto-al-que-contribuir: "Encontrando un proyecto al que contribuir"
+  c&oacute;mocenviarcunaccontribuci&oacute;n: "C&oacute;mo enviar una contribuci&oacute;n"
+  qu&eacute;-pasa-luego-de-que-enviaste-una-contribuci&oacute;n: "Qu&eacute; pasa luego de que enviaste una contribuci&oacute;n"
 order: 1
 image: /assets/images/cards/contribute.png
 ---
@@ -52,7 +52,7 @@ El c&oacute;digo abierto ofrece oportunidades para practicar habilidades de lide
 
 No necesitas convertirte en un colaborador de toda la vida para disfrutar la participaci&oacute;n con el c&oacute;digo abierto. ¿Alguna vez viste un error de tipograf&iacute;a, y deseaste que &aacute;lguien pudiera corregirlo? En un proyecto de c&oacute;digo abierto, es justamente lo que puedes hacer. El c&oacute;digo abierto ayuda a las personas a sentir acci&oacute;n en sus vidas, en la forma en que experimentan al mundo y eso en si mismo es gratificante.
 
-## Lo que significa contribuir
+## Qu&eacute; significa contribuir
 
 Si eres un colaborador de c&oacute;digo abierto nuevo, el proceso puede ser intimidatorio. ¿C&oacute;mo encontrar el proyecto adecuado? ¿Qu&eacute; hacer si no sabes c&oacute;mo codificar? ¿Qu&eacute; pasa si algo sale mal?
 
@@ -488,6 +488,11 @@ Si el proyecto est&aacute; alojado en GITHUb, ac&aacute; te explicamos los pasos
 Si se trata de tu primer pull request, verifica [Haz un Pull Request](http://makeapullrequest.com/), que fue creado por @kentcdodds como un recurso de recorrido gratuito.
 
 ## Qu&eacute; pasa luego de que enviaste una contribuci&oacute;n
+
+
+
+
+
 
 ¡Lo hiciste! Felicitaciones por convertirte en un colaborador open source. Esperamos que &eacute;sta sea la primera de muchas.
 

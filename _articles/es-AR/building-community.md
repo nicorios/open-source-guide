@@ -4,14 +4,14 @@ title: Construyendo Comunidades de Bienvenida
 description: Construyendo una comunidad que anime a al gente a usar, contribuir y educar con su proyecto
 class: building
 toc:
-  setting-your-project-up-for-success: "Configurando tu proyecto para el &eacute;xito"
-  growing-your-community: "Haciendo crecer tu comunidad"
-  resolving-conflicts: "Resolviendo conflictos"
+  configurando-tu-proyecto-para-el-&eacute;xito: "Configurando tu proyecto para el &eacute;xito"
+  haciendo-crecer-tu-comunidad: "Haciendo crecer tu comunidad"
+  resolviendo-conflictos: "Resolviendo conflictos"
 order: 4
 image: /assets/images/cards/building.png
 ---
 
-## Configurando su proyecto para el &eacute;xito
+## Configurando tu proyecto para el &eacute;xito
 
 Acabas de lanzar tu proyecto, est&aacute;s pasando la voz, y la gente lo est&aacute; siguiendo. ¡Genial! Ahora, ¿c&oacute;mo haces que se queden?
 
